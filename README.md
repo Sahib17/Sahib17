@@ -4,7 +4,7 @@
 
 **Junior Software Developer** · Full-Stack JS/TS · Abbotsford, BC 🇨🇦
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahibjeet17)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahibjeetsingh17)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sahibjeet.1711@gmail.com)
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white)](#) -->
 
@@ -79,7 +79,7 @@ Currently: looking for my first full-time **Junior SWE role** and actively build
 ### 💬 let's connect
 
 Open to **junior SWE roles**, **internships**, and **freelance projects** across Canada.  
-Feel free to reach out — [sahibjeet.1711@gmail.com](mailto:sahibjeet.1711@gmail.com) or [LinkedIn](https://linkedin.com/in/sahibjeet17).
+Feel free to reach out — [sahibjeet.1711@gmail.com](mailto:sahibjeet.1711@gmail.com) or [LinkedIn](https://linkedin.com/in/sahibjeetsingh17).
 
 ---
 

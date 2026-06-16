@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahibjeetsingh17)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sahibjeet.1711@gmail.com)
-// [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white)](#)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white)](#) -->
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ### about me
 
-I'm a Computer Information Systems grad from UFV (CGPA 3.67 · Dean's List ×4) who builds full-stack web apps.  
+I'm a Computer Information Systems grad from UFV who builds full-stack web apps.  
 My stack lives in the JS/TS ecosystem — React on the front, Node.js + Express on the back, MongoDB or PostgreSQL for data.  
 I'm also genuinely into how AI tools are changing the way developers work — from prompt engineering to integrating LLM APIs into apps.
 
